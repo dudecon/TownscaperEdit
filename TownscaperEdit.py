@@ -1,5 +1,6 @@
 # Townscaper Level Editor Utility
 # released to the public domain by Paul Spooner
+# Latest version at: http://github.com/dudecon/TownscaperEdit
 # Version 1.1 2020-07-18
 # Run from the save file folder
 # (in Windows):
